@@ -1,0 +1,23 @@
+{
+  "appTitle": "anketa",
+  "studentSurveyButtonGoText": "Študentska anketa",
+  "teacherSurveyButtonGoText": "Anketa za učitelje",
+  "employerSurveyButtonGoText": "Anketa delodajalca",
+  "appBarTitleStudent": "Študentska anketa vprašanja",
+  "appBarTitleTeacher": "Anketa za učitelje vprašanja",
+  "appBarTitleEmployer": "Anketa delodajalca vprašanja",
+  "previous": "Prejšnji",
+  "next": "Naslednji",
+  "sendSurveyButtonText": "Pošljite anketo",
+  "scorePageTitle": "Rezultati ankete",
+  "homePageButtonText": "Domača stran",
+  "okButtonText": "v redu",
+  "number": "št.",
+  "level":"ravni",
+  "value":"odstotek",
+  "switchThemeButtonText": "zamenjaj temo",
+  "letsStart": "Začnimo",
+  "exitButtonText": "izhod",
+  "errorSendMessage":"Ankete ni mogoče poslati, preden je izpolnjena"
+
+}

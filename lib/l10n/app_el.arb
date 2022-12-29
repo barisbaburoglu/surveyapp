@@ -1,0 +1,21 @@
+{
+  "appTitle": "επισκόπηση",
+  "studentSurveyButtonGoText": " Έρευνα Μαθητών/Φοιτητών",
+  "teacherSurveyButtonGoText": "Έρευνα Καθηγητών",
+  "employerSurveyButtonGoText": "Έρευνα Εργοδοτών",
+  "appBarTitleStudent": " Έρευνα Μαθητών/Φοιτητών Ερωτήσεις",
+  "appBarTitleTeacher": "Έρευνα Καθηγητών Ερωτήσεις",
+  "appBarTitleEmployer": "Έρευνα Εργοδοτών Ερωτήσεις",
+  "previous": "Προηγούμενη",
+  "next": "Επόμενη",
+  "sendSurveyButtonText": "Στείλτε την Έρευνα",
+  "scorePageTitle": "Αποτελέσματα έρευνας",
+  "homePageButtonText": "Αρχική σελίδα",
+  "okButtonText": "εντάξει",
+  "number": "Αριθμός",
+  "level":"επίπεδο",
+  "value":"ποσοστό",
+  "switchThemeButtonText": "αλλαγή θέματος",
+  "letsStart": "ας αρχίσουμε",
+  "errorSendMessage":"Η έρευνα δεν μπορεί να σταλεί πριν ολοκληρωθεί"
+}

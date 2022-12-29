@@ -1,0 +1,22 @@
+{
+  "appTitle": "survey",
+  "studentSurveyButtonGoText": "Student Survey",
+  "teacherSurveyButtonGoText": "Teacher Survey",
+  "employerSurveyButtonGoText": "Employer Survey",
+  "appBarTitleStudent": "Student Survey Questions",
+  "appBarTitleTeacher": "Teacher Survey Questions",
+  "appBarTitleEmployer": "Employer Survey Questions",
+  "previous": "Previous",
+  "next": "Next",
+  "sendSurveyButtonText": "Send the Survey",
+  "scorePageTitle": "Survey Results",
+  "homePageButtonText": "Homepage",
+  "okButtonText": "ok",
+  "number": "no.",
+  "level":"level",
+  "value":"percentage",
+  "switchThemeButtonText": "switch theme",
+  "letsStart": "let's start",
+  "exitButtonText": "exit",
+  "errorSendMessage":"The survey cannot be sent before it is completed"
+}

@@ -1,0 +1,22 @@
+{
+  "appTitle": "aptauja",
+  "studentSurveyButtonGoText": "Studentu aptauja",
+  "teacherSurveyButtonGoText": "Skolotāju aptauja",
+  "employerSurveyButtonGoText": "Darba devēju aptauja",
+  "appBarTitleStudent": "Studentu aptauja Jautājumi",
+  "appBarTitleTeacher": "Skolotāju aptauja Jautājumi",
+  "appBarTitleEmployer": "Darba devēju Jautājumi",
+  "previous": "Iepriekšējais",
+  "next": "Nākamais",
+  "sendSurveyButtonText": "Nosūtīt aptauju",
+  "scorePageTitle": "Aptaujas rezultāti",
+  "homePageButtonText": "Mājas lapa",
+  "okButtonText": "labi",
+  "number": "nr.",
+  "level":"līmenī",
+  "value":"procentos",
+  "switchThemeButtonText": "pārslēdziet motīvu",
+  "letsStart": "sāksim",
+  "exitButtonText": "Izeja",
+  "errorSendMessage":"Aptauju nevar nosūtīt, pirms tā nav pabeigta"
+}

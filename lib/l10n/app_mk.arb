@@ -1,0 +1,22 @@
+{
+  "appTitle": "анкета",
+  "studentSurveyButtonGoText": "Анкета за студенти",
+  "teacherSurveyButtonGoText": "Анкета за наставници",
+  "employerSurveyButtonGoText": "Анкета на работодавачот",
+  "appBarTitleStudent": "Анкета за студенти Прашања",
+  "appBarTitleTeacher": "Анкета за наставници Прашања",
+  "appBarTitleEmployer": "Анкета за наставници Прашања",
+  "previous": "Претходна",
+  "next": "Следно",
+  "sendSurveyButtonText": "Испратете ја Анкетата",
+  "scorePageTitle": "Резултати од истражувањето",
+  "homePageButtonText": "Почетна страница",
+  "okButtonText": "добро",
+  "number": "бр.",
+  "level":"ниво",
+  "value":"процентот",
+  "switchThemeButtonText": "смени тема",
+  "letsStart": "да почнеме",
+  "exitButtonText": "излез",
+  "errorSendMessage":"Анкетата не може да се испрати пред да биде завршена"
+}

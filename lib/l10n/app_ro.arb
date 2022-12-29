@@ -1,0 +1,22 @@
+{
+  "appTitle": "studiu",
+  "studentSurveyButtonGoText": "Sondaj pentru elevi",
+  "teacherSurveyButtonGoText": "Sondaj pentru profesori",
+  "employerSurveyButtonGoText": "Sondaj pentru angajatori",
+  "appBarTitleStudent": "Sondaj pentru elevi Întrebări",
+  "appBarTitleTeacher": "Sondaj pentru profesori Întrebări",
+  "appBarTitleEmployer": "Sondaj pentru angajatori Întrebări",
+  "previous": "Anterior",
+  "next": "Următorul",
+  "sendSurveyButtonText": "Trimite sondajul",
+  "scorePageTitle": "Rezultatele sondajului",
+  "homePageButtonText": "Pagina principala",
+  "okButtonText": "Bine",
+  "number": "nu.",
+  "level":"nivel",
+  "value":"procent",
+  "switchThemeButtonText": "schimba tema",
+  "letsStart": "să începem",
+  "exitButtonText": "Ieșire",
+  "errorSendMessage":"Sondajul nu poate fi trimis înainte de a fi finalizat"
+}

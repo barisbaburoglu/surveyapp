@@ -1,0 +1,22 @@
+{
+  "appTitle": "anket",
+  "studentSurveyButtonGoText": "Öğrenciyim",
+  "teacherSurveyButtonGoText": "Öğretmenim",
+  "employerSurveyButtonGoText": "İşverenim",
+  "appBarTitleStudent": "Öğrenci Anketi Sorular",
+  "appBarTitleTeacher": "Öğretmen Anketi Sorular",
+  "appBarTitleEmployer": "İşveren Anketi Sorular",
+  "previous": "Önceki",
+  "next": "Sonraki",
+  "sendSurveyButtonText": "Anketi Gönder",
+  "scorePageTitle": "Anket Sonuçları",
+  "homePageButtonText": "Anasayfa",
+  "okButtonText": "tamam",
+  "number": "no.",
+  "level":"seviye",
+  "value":"yüzde",
+  "switchThemeButtonText": "temayı değiştir",
+  "letsStart": "hadi başlayalım",
+  "exitButtonText": "çıkış",
+  "errorSendMessage":"Anket tamamlanmadan gönderilemez"
+}
