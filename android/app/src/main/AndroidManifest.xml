@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="net.edu40.education40foryouth">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="Education 4.0 For Youth"
         android:name="${applicationName}"
